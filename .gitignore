@@ -154,3 +154,5 @@ gradle-app.setting
 /local.properties
 /.idea/runConfigurations.xml
 /.idea/kotlinScripting.xml
+/.idea/kotlinc.xml
+/.idea/migrations.xml
