@@ -57,7 +57,7 @@ Add jitpack to the repositories section
 Add the dependency
 ```xml
 <dependency>
-  <groupId>com.github.eltonvs</groupId>
+  <groupId>com.github.roq3</groupId>
   <artifactId>kotlin-obd-api</artifactId>
   <version>1.3.0</version>
 </dependency>

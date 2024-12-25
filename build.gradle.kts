@@ -5,7 +5,7 @@ plugins {
     `maven-publish`
 }
 
-group = "com.github.eltonvs"
+group = "com.github.roq3"
 version = "1.3.0"
 
 repositories {
